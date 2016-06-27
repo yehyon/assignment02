@@ -139,9 +139,10 @@ a[href$=".txt"] {
 a[href^="http://"][target="_blank"] {
     /*배경 이미지 설정*/
     background-image: url("../images/external_link.png");
-    background-position: 0 10px;
+    background-position: 0 13px;
     color: #000;
-}display: block;
+    display: block;
+}
 
 
 
